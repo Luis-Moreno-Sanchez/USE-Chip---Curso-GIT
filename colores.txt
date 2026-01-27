@@ -2,3 +2,5 @@ Rojo
 Naranja
 Azul
 Amarillo
+Rojo Fuego
+
